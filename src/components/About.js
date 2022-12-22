@@ -5,6 +5,7 @@ export default function About(){
           <div >
             <div style={{backgroundColor: "lightblue", textAlign:"center",width:"100%",height:"31em"}}>
             <p>hellos</p>
+              <h1>Shivam Kushwaha.</h1><br/>
               <h1>Shivam Kushwaha.</h1>
               <h1>I build things for the web.</h1>
               I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences.<br/> 
